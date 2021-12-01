@@ -44,9 +44,6 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 How many measurements are larger than the previous measurement?
 
-Your puzzle answer was 1121.
-
-The first half of this puzzle is complete! It provides one gold star: *
 --- Part Two ---
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
@@ -82,9 +79,3 @@ H: 792 (increased)
 In this example, there are 5 sums that are larger than the previous sum.
 
 Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum?
-
-Answer:
-
-Although it hasn't changed, you can still get your puzzle input.
-
-You can also [Shareon Twitter Mastodon] this puzzle.
