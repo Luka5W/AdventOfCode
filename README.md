@@ -1,6 +1,6 @@
 # AdventOfCode
 
-_My solutions for AdventOfCode _
+_My solutions for AdventOfCode_
 
 ## 2021
 
