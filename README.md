@@ -5,7 +5,7 @@ _My solutions for AdventOfCode _
 ## 2021
 
 | Day | Solved | Language |
-| --- | --- | --- |
+| :---: | :---: | :--- |
 | 01 | \*\* | NodeJS |
 | 02 | \*\* | Python |
 | 03 | \*\* | Bash |
