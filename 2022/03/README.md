@@ -1,4 +1,4 @@
---- Day 3: Rucksack Reorganization ---
+# --- Day 3: Rucksack Reorganization ---
 
 One Elf has the important job of loading all of the
 [rucksacks](https://en.wikipedia.org/wiki/Rucksack) with supplies for the jungle
@@ -57,9 +57,8 @@ compartments of each rucksack is 16 (`p`), 38 (`L`), 42 (`P`), 22 (`v`), 20
 Find the item type that appears in both compartments of each rucksack. **What is
 the sum of the priorities of those item types?**
 
----
 
---- Part Two ---
+# --- Part Two ---
 
 As you finish identifying the misplaced items, the Elves come to you with
 another issue.
