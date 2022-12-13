@@ -17,7 +17,7 @@ This year, I want to solve each day with Bash-scripts to… well, I have no idea
 |  06   |  \*\*  | Bash     |
 |  07   |  \*\*  | Bash     |
 |  08   |  \*\*  | Bash     |
-|  09   |        | Bash     |
+|  09   |   \*   | Bash     |
 |  10   |        | Bash     |
 |  11   |        | Bash     |
 |  12   |        | Bash     |
