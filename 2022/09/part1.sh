@@ -100,18 +100,4 @@ while read -r line; do
   esac
 done < $file;
 
-#echo ${index[@]}
-
-#for (( y = 5; y >= 0; y-- )); do
-#  for (( x = 0; x < 6; x++ )); do
-#    if [[ $x -eq 0 && $y -eq 0 ]]; then
-#      echo -n "s";
-#    elif [[ ! " ${index[*]} " =~ " $x,$y " ]]; then
-#      echo -n ".";
-#    else
-#      echo -n "#";
-#    fi
-#  done
-#  echo
-#done
 echo "Answer: ${#index[@]}";
