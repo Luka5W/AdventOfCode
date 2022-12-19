@@ -8,7 +8,7 @@ _My solutions for AdventOfCode_
 This year, I want to solve each day with Bash-scripts to… well, I have no idea…
 
 |            Day            |                      Solved                       | Language |
-| :--------------------- -: | :-----------------------------------------------: | :------- |
+|:-------------------------:|:-------------------------------------------------:|:---------|
 | [01](./2022/01/README.md) | [\*](./2022/01/part1.sh) [\*](./2022/01/part2.sh) | Bash     |
 | [02](./2022/02/README.md) | [\*](./2022/02/part1.sh) [\*](./2022/02/part2.sh) | Bash     |
 | [03](./2022/03/README.md) | [\*](./2022/03/part1.sh) [\*](./2022/03/part2.sh) | Bash     |
@@ -20,20 +20,20 @@ This year, I want to solve each day with Bash-scripts to… well, I have no idea
 | [09](./2022/09/README.md) |             [\*](./2022/09/part1.sh)              | Bash     |
 | [10](./2022/10/README.md) | [\*](./2022/10/part1.sh) [\*](./2022/10/part2.sh) | Bash     |
 | [11](./2022/11/README.md) |             [\*](./2022/11/part1.sh)              | Bash     |
-| [12](./2022/12/README.md) |        | Bash     |
-| [13](./2022/13/README.md) |        | Bash     |
-|  14   |        | Bash     |
-|  15   |        | Bash     |
-|  16   |        | Bash     |
-|  17   |        | Bash     |
-|  18   |        | Bash     |
-|  19   |        | Bash     |
-|  20   |        | Bash     |
-|  21   |        | Bash     |
-|  22   |        | Bash     |
-|  23   |        | Bash     |
-|  24   |        | Bash     |
-|  25   |        | Bash     |
+| 12 | | Bash     |
+| 13 | | Bash     |
+| 14 | | Bash     |
+| 15 | | Bash     |
+| 16 | | Bash     |
+| 17 | | Bash     |
+| 18 | | Bash     |
+| 19 | | Bash     |
+| 20 | | Bash     |
+| 21 | | Bash     |
+| 22 | | Bash     |
+| 23 | | Bash     |
+| 24 | | Bash     |
+| 25 | | Bash     |
 
 
 ## 2021
