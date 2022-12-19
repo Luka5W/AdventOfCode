@@ -19,7 +19,7 @@ This year, I want to solve each day with Bash-scripts to… well, I have no idea
 | [08](./2022/08/README.md) | [\*](./2022/08/part1.sh) [\*](./2022/08/part2.sh) | Bash     |
 | [09](./2022/09/README.md) |             [\*](./2022/09/part1.sh)              | Bash     |
 | [10](./2022/10/README.md) | [\*](./2022/10/part1.sh) [\*](./2022/10/part2.sh) | Bash     |
-| [11](./2022/11/README.md) |        | Bash     |
+| [11](./2022/11/README.md) |             [\*](./2022/11/part1.sh)              | Bash     |
 | [12](./2022/12/README.md) |        | Bash     |
 | [13](./2022/13/README.md) |        | Bash     |
 |  14   |        | Bash     |
