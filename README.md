@@ -3,6 +3,19 @@
 _My solutions for AdventOfCode_
 
 
+## 2023
+
+This year, I want to solve each day with ~~Bash-scripts~~ -- uhm an ~~ugly Assembler-Wrapper~~ --
+**C**.
+
+> Trigger Warning:
+> This Code may contain paradigms and stuff which experienced C gurus may find offensive…
+
+|            Day            |                     Solved                      | Language |
+|:-------------------------:|:-----------------------------------------------:|:---------|
+| [01](./2023/01/README.md) | [\*](./2022/01/part1.c) [\*](./2022/01/part2.c) | C        |
+
+
 ## 2022
 
 This year, I want to solve each day with Bash-scripts to… well, I have no idea…
@@ -20,35 +33,35 @@ This year, I want to solve each day with Bash-scripts to… well, I have no idea
 | [09](./2022/09/README.md) |             [\*](./2022/09/part1.sh)              | Bash     |
 | [10](./2022/10/README.md) | [\*](./2022/10/part1.sh) [\*](./2022/10/part2.sh) | Bash     |
 | [11](./2022/11/README.md) |             [\*](./2022/11/part1.sh)              | Bash     |
-| 12 | | Bash     |
-| 13 | | Bash     |
-| 14 | | Bash     |
-| 15 | | Bash     |
-| 16 | | Bash     |
-| 17 | | Bash     |
-| 18 | | Bash     |
-| 19 | | Bash     |
-| 20 | | Bash     |
-| 21 | | Bash     |
-| 22 | | Bash     |
-| 23 | | Bash     |
-| 24 | | Bash     |
-| 25 | | Bash     |
+|            12             |                                                   | Bash     |
+|            13             |                                                   | Bash     |
+|            14             |                                                   | Bash     |
+|            15             |                                                   | Bash     |
+|            16             |                                                   | Bash     |
+|            17             |                                                   | Bash     |
+|            18             |                                                   | Bash     |
+|            19             |                                                   | Bash     |
+|            20             |                                                   | Bash     |
+|            21             |                                                   | Bash     |
+|            22             |                                                   | Bash     |
+|            23             |                                                   | Bash     |
+|            24             |                                                   | Bash     |
+|            25             |                                                   | Bash     |
 
 
 ## 2021
 
 Originally, I wanted to solve each day with a new language but when coming to TypeScript, I've changed my mind and will continue in TypeScript to improve my non-existent TS-skills...
 
-|  Day  | Solved | Language   |
-| :---: | :---:  | :--------- |
-|  01   |  \*\*  | NodeJS     |
-|  02   |  \*\*  | Python     |
-|  03   |  \*\*  | Bash       |
-|  04   |  \*\*  | TypeScript |
-|  05   |  \*\*  | TypeScript |
-|  06   |  \*\*  | TypeScript |
-|  07   |  \*\*  | TypeScript |
-|  08   |   \*   | TypeScript |
-|  09   |   \*   | TypeScript |
-|  10   |  \*\*  | TypeScript |
+| Day | Solved | Language   |
+|:---:|:------:|:-----------|
+| 01  |  \*\*  | NodeJS     |
+| 02  |  \*\*  | Python     |
+| 03  |  \*\*  | Bash       |
+| 04  |  \*\*  | TypeScript |
+| 05  |  \*\*  | TypeScript |
+| 06  |  \*\*  | TypeScript |
+| 07  |  \*\*  | TypeScript |
+| 08  |   \*   | TypeScript |
+| 09  |   \*   | TypeScript |
+| 10  |  \*\*  | TypeScript |
